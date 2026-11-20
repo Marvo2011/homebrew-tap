@@ -1,9 +1,9 @@
 class ProxmoxBackupClient < Formula
   desc "Proxmox Backup Server client and pxar tool (unofficial macOS port)"
   homepage "https://github.com/Marvo2011/proxmox-backup-client-mac"
-  url "https://github.com/Marvo2011/proxmox-backup-client-mac/releases/download/v4.2.10-20261119/proxmox-backup-client-4.2.10-20261119-macos-arm64.tar.gz"
-  version "4.2.10-20261119"
-  sha256 "d85ef1bad693730b3422323abec79744fdd35087cbf18814b3d9632d86e39171"
+  url "https://github.com/Marvo2011/proxmox-backup-client-mac/releases/download/v4.2.10-20261120/proxmox-backup-client-4.2.10-20261120-macos-arm64.tar.gz"
+  version "4.2.10-20261120"
+  sha256 "42a996b0da6267c1839a2d7b058b001bdfe878b4fe4c1e18102347d9176ae3bb"
   license "AGPL-3.0-only"
 
   depends_on arch: :arm64
